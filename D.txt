@@ -2,5 +2,6 @@ class A{
 public static void main(){
 int x=100;
 int y=200;
+int sum=x+y;
 system.out.println(x);
 }
